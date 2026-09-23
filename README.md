@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I’m Bora! 👋
 
-<!--
-**bora3684/bora3684** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Georgia Tech student studying Business + Computer Science and an aspiring Product Manager.
 
-Here are some ideas to get you started:
+Things I'm Up to:
+1. Currently building projects to familiarize myself with AI and developer tools!
+2. Learning Mandarin Chinese  
+3. Previously worked in product, analytics, and operations at Cloudflare & Amazon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A few fun facts
+- I studied abroad in Berlin
+- I love cooking, baking, and trying new foods—check them out on [@b0rabites](https://www.instagram.com/b0rabites/) 🍜
+- I’m a gamer (Terraria, Minecraft, Cult of the Lamb, Monster Hunter Wilds, etc.)
+- I’m into Pilates and Lagree
+- I have two cats named Miffy & Milo /ᐠ. .ᐟ\ Ⳋ
+
+Thanks for stopping by!
