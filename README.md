@@ -1,4 +1,4 @@
-# Hi, I’m Bora! 👋
+# Hi, I’m Bora! . ݁₊ ⊹ . ݁˖ . ݁
 
 I’m a Georgia Tech student studying Business + Computer Science and an aspiring Product Manager.
 
