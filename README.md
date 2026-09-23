@@ -9,7 +9,7 @@ Things I'm Up to:
 
 ### A few fun facts
 - I studied abroad in Berlin
-- I love cooking, baking, and trying new foods—check them out on [@b0rabites](https://www.instagram.com/b0rabites/) 🍜
+- I love cooking, baking, and trying new foods... check them out on [@b0rabites](https://www.instagram.com/b0rabites/) 🍜
 - I’m a gamer (Terraria, Minecraft, Cult of the Lamb, Monster Hunter Wilds, etc.)
 - I’m into Pilates and Lagree
 - I have two cats named Miffy & Milo /ᐠ. .ᐟ\ Ⳋ
