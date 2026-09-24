@@ -14,3 +14,5 @@ Things I'm Up to:
 - I have two cats named Miffy & Milo /ᐠ. .ᐟ\ Ⳋ
 
 Thanks for stopping by!
+
+![Minesweeper animation](./replay-animation.svg)
