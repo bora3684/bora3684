@@ -17,4 +17,4 @@ Thanks for stopping by!
 
 ![Minesweeper animation](./replay-animation.svg)
 
-p.s. I'm a huge minesweeper fan and my quickest time on google is <90 seconds!
+p.s. I'm a huge minesweeper fan and my quickest time on google hard mode is <90 seconds!
