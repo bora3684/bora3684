@@ -2,6 +2,9 @@
 
 I’m a Georgia Tech student studying Business + Computer Science and an aspiring Product Manager. I've previously worked in product, analytics, and operations at Cloudflare & Amazon!
 
+## My Portfolio
+Explore my work, projects, and digital cookbook at **[borasong.dev](https://borasong.dev)**.
+
 Things I'm Up to:
 1. Currently building projects to familiarize myself with AI and developer tools!
 2. Learning Mandarin Chinese  
