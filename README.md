@@ -1,6 +1,6 @@
 # Hi, I’m Bora! . ݁₊ ⊹ . ݁˖ . ݁
 
-I’m a Georgia Tech student studying Business + Computer Science and an aspiring Product Manager. I've previously worked in product, analytics, and operations at Cloudflare & Amazon!
+I’m a Georgia Tech student studying Business + Computer Science and an aspiring Product Manager!
 
 ## My Portfolio 
 Explore my work, projects, and digital cookbook at **[borasong.dev](https://borasong.dev)** :)
